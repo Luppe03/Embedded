@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Embedded Event Logger
 Lukas Persson 
 Algoritmer, datastrukturer och design patterns
@@ -50,6 +49,3 @@ find 2
 exit
 
 Sortering är implementerad med ett förenklat strategy-pattern där sorteringsalgoritm väljs dynamiskt via funktionspekare baserat på vad användaren väljer.
-=======
-# Embedded
->>>>>>> ebca949f3fb87372572ea185f42ba6767309e9e8
